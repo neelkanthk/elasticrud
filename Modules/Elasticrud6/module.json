@@ -1,0 +1,16 @@
+{
+    "name": "Elasticrud6",
+    "alias": "elasticrud6",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Elasticrud6\\Providers\\Elasticrud6ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/elasticrud6",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Elasticrud6\\Providers\\Elasticrud6ServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Elasticrud6\\": ""
+        }
+    }
+}
