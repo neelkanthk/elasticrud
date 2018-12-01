@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -46,7 +45,7 @@
             @include('elasticrud6::partials.sidebar-main')
             
             @yield('content')
-            @include('elasticrud6::partials.sidebar-control')
+            {{--@include('elasticrud6::partials.sidebar-control')--}}
             
             @include('elasticrud6::partials.footer')
             
